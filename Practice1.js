@@ -1,3 +1,11 @@
+/***
+
+Free Drinks
+    - Burger more than 500tk: free Coke
+    - Else Coke: 30tk
+*/
+
+
 var amountBought = 400;
 var coke = 30;
 
